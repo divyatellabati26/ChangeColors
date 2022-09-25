@@ -1,0 +1,68 @@
+.circle {
+  border: 1px solid black;
+  margin-left: 10px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  transition: background-color 0.5s ease-in-out;
+}
+.circle-red {
+  border: 1px solid red;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  background-color: red;
+  transition: background-color 0.5s ease-in-out;
+  outline: none;
+}
+.circle-green {
+  border: 1px solid green;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  background-color: green;
+  transition: background-color 0.5s ease-in-out;
+  outline: none;
+}
+.circle-yellow {
+  border: 1px solid orange;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  background-color: orange;
+  transition: background-color 0.5s ease-in-out;
+  outline: none;
+}
+.line {
+  border: 1px solid black;
+  height: 100px;
+  width: 20px;
+}
+.border {
+  background-color: black;
+  width: 120px;
+  margin-left: 150px;
+}
+.pole {
+  background-color: brown;
+  margin-left: 60px;
+  width: 25px;
+  height: 80px;
+  margin-left: 200px;
+}
+.bg-color {
+  background-color: deepskyblue;
+  height: 120vh;
+  width: 100vh;
+}
+.para {
+  color: deeppink;
+  font-family: Roboto;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+}
